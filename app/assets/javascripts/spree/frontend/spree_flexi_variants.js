@@ -1,6 +1,6 @@
 //= require jquery.formatCurrency-1.4.0.min
 //= require i18n/jquery.formatCurrency.all
-//= require spree/frontend/product
+// require spree/frontend/product
 //= require spree/frontend/cart
 //= require_self
 
